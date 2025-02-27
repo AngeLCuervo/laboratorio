@@ -8,6 +8,16 @@
 
 4. compilamos el proyecto y que todo funcione
    - mvn package (terminal)
-   - mvn compile 
+   - mvn compile
+  
+5. Las clases
+   1. producto
+![image](https://github.com/user-attachments/assets/beedfd02-b1b1-49ad-89e6-e7cfee728e5c)
+ 2. alerta 
+![image](https://github.com/user-attachments/assets/cd4bab40-acf5-42c3-ba5b-ae7f5854de13)
+3. ![image](https://github.com/user-attachments/assets/e9912f02-bf4a-40a7-9f6e-fa13c5370605)
+4. 
 
-6. se hacen la pruebas de unidad y se comprueba en jacoco 
+
+
+7. se hacen la pruebas de unidad y se comprueba en jacoco 

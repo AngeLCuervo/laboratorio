@@ -6,8 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/e9e6b227-d87d-4f18-9b93-6d47edfc6806)
 
-
-
 4. compilamos el proyecto y que todo funcione
+   - mvn package (terminal)
+   - mvn compile 
 
-5. se hacen la pruebas de unidad y se comprueba en jacoco 
+6. se hacen la pruebas de unidad y se comprueba en jacoco 
